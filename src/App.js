@@ -4,7 +4,7 @@ function App() {
   console.log("Hello")
 
   return (
-    <div>HELLO</div>
+    <div>NAMSTE DUNIYA</div>
   )
 }
 
