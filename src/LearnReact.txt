@@ -1,0 +1,26 @@
+
+DEC/03/2025**********************
+
+BABEL :- Babel is a JavaScript compiler that allows developers to write modern JavaScript 
+        code (using ES6+ features) and transpile it into a version of JavaScript that can run in 
+        older browsers or environments
+        EX:- // Input (ES6)
+            const greet = () => console.log('Hello');
+
+            // Output (ES5)
+            var greet = function () {
+            console.log('Hello');
+            };
+
+Webpack :- Webpack is a module bundler for JavaScript applications. It takes all the 
+            assets in your project—JavaScript files, stylesheets, images, etc.—and combines them into 
+            a single or multiple bundles. This ensures that your application is optimized for loading in a browser.
+
+
+package.json :- The package.json file is a central configuration file in a JavaScript project.
+                It is created when you initialize a project with npm init or yarn init. It contains metadata 
+                about the project and manages the dependencies, scripts, and settings for the project.
+
+node-modules :- The node_modules directory is a core component of a Node.js project.
+                It stores all the dependencies (packages) required for the project.
+                These dependencies are installed when you run npm install or yarn install, based on the package.json file.
