@@ -1,5 +1,15 @@
+********************JAN/05/25***********************
 
-DEC/03/2025**********************
+React :- React is a js library which is Primarily use  for building user interface and single page web application .
+
+Features :- 
+    JSX :- JSX stand for js xml it is a syntax extension that allow writing html inside js file.
+    one way data binding :- react follow one way data  binding mwans data can only be flow parent to child.
+    component based :- react apps are building using componets that makes appli. more optimize and fater.
+    vDOm :- The Virtual DOM is a lightweight representation of the real DOM. It enables efficient updates by minimizing direct manipulation of the real DOM. 
+
+
+JAN/03/2025**********************
 
 BABEL :- Babel is a JavaScript compiler that allows developers to write modern JavaScript 
         code (using ES6+ features) and transpile it into a version of JavaScript that can run in 
