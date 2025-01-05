@@ -4,7 +4,7 @@ function App() {
   console.log("Hello")
 
   return (
-    <div>NAMSTE DUNIYA</div>
+    <div>Welcome to Quiz APP</div>
   )
 }
 
