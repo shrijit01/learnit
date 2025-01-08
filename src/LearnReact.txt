@@ -1,3 +1,9 @@
+********************JAN/08/25***********************
+Coded Draggable Notepad
+
+
+********************JAN/07/25***********************
+LEARN 
 ********************JAN/06/25***********************
 react props :- props stand for properties that can be passed via parent comp to child component till the nested child and props is read only object 
                 that can not be changed.
