@@ -1,3 +1,7 @@
+********************JAN/06/25***********************
+react props :- props stand for properties that can be passed via parent comp to child component till the nested child and props is read only object 
+                that can not be changed.
+
 ********************JAN/05/25***********************
 
 React :- React is a js library which is Primarily use  for building user interface and single page web application .
